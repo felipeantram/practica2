@@ -1,2 +1,3 @@
 //Director: FELIPE DE JESUS ANTONIO RAMIREZ
-// ya me estrese 
+
+//si se pudoo que bueno
